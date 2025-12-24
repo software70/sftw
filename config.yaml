@@ -1,0 +1,4 @@
+caches:
+  images:
+    dir: :cacheDir/images
+
